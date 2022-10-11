@@ -9,7 +9,7 @@
 This lab demonstrates how to deploy a simple server to AWS with EC2 and Elastic Beanstalk.
 
 - [CI/CD GitHub Actions](https://github.com/brandenge/cloud-server/actions)
-- [CLI Deployed](https://server-deployment-pract-prod.herokuapp.com/)
+- [CLI Deployed](http://cloudserverclideploy-dev.us-east-2.elasticbeanstalk.com//)
 - [GUI Deployed](http://cloudserverguideploy-env.eba-tujnwzhz.us-east-2.elasticbeanstalk.com//)
 
 ### Setup

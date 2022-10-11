@@ -11,6 +11,12 @@ app.get('/', (req, res, next) => {
   res.status(200).send('Hello World from my Express server');
 });
 
+app.get('/hello', (req, res, next) => {
+  const { name } = req.query;
+  res.status(200).send(`Greetings ${name}!`);
+});
+
+
 app.get('/bad', (req, res, next) => {
   next('This is a bad route that resulted in an error');
 });
