@@ -1,16 +1,16 @@
-# LAB - Class 01
+# LAB - Class 16
 
-## Project: Deployment Test
+## Project: AWS Cloud Servers
 
 ### Author: Branden Ge
 
 ### Problem Domain
 
-This lab demonstrates how to do mock testing with an Express server.
+This lab demonstrates how to deploy a simple server to AWS with EC2 and Elastic Beanstalk.
 
-- [CI/CD GitHub Actions](https://github.com/brandenge/server-deployment-practice/actions)
-- [Back-end server url production](https://server-deployment-pract-prod.herokuapp.com/)
-- [Back-end server url development](https://server-deployment-pract-dev.herokuapp.com/)
+- [CI/CD GitHub Actions](https://github.com/brandenge/cloud-server/actions)
+- [CLI Deployed](https://server-deployment-pract-prod.herokuapp.com/)
+- [GUI Deployed](http://cloudserverguideploy-env.eba-tujnwzhz.us-east-2.elasticbeanstalk.com//)
 
 ### Setup
 
